@@ -1,0 +1,1 @@
+# specs-to-docx-artifacts
